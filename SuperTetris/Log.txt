@@ -1,0 +1,30 @@
+﻿Tetromino collision need to be reworked. My initial thought is to reconstruct the piece when one part hits, but this is going to cause headaches down the line. 
+I will research and possibly look to make the tetro its own collision entity instead of the individual blocks.
+
+9/7 - Tetros now collide with the bottom correctly and between tetros. Movement now works. Now test other block types. Then infinity and beyond.
+
+9/8 - Tetros can rotate into the side of other tetros. Despite the BlockCollision test failing the move it somehow copies the move from the test tetro to the _currentTetro. 
+      the Clone is obviously not working correctly.
+
+9/9 - Rotation, side collision and eveything works except checking for and removing completed rows. Needs to get a preview block to know whats coming. Scoring system, block
+	  speed increase.
+	  
+9/13 - Draw in boundaries. Narrow playing field for other things to be drawn on the side.	   
+
+9/14 - Boundaries on the side are now working correctly and are drawn in. There is block removal errors. Phantom blocks or another issue are causing incomplete rows to be 
+	   treated as if they are complete. Visually they're not complete, but in the calculations they are seen as complete. Block types now ave a distinct color to tell them apart.
+	   
+	 - Block removal is corrected. I was eliminating them from the front of the collection to back. Had to reverse that. Now I need a preview for the next block and score.   
+
+9/22 - Preview block generation and the current block generation needs to be seperate instead fo passing from one to another. Current block will be passed what block to make while
+       the preview will still randomly generate.
+
+9/23 - Preview block works. Extremly tired.
+
+10/14 - Changed spawning to start from the top bound and not render till past that. Can now use scaled sprites. Need to scale the playing area to accomadate the scaling. Also need
+        smooth continous movement. Also need a preview shadow of where the block will fall. Still need an appropriate scoring system. Other ideas. More detailed high res sprites.
+
+10/16 - Everything the is the same as above. Smooth movement was attempted and failed. Scaling the play area is in place but not 100%. The others aven't been attempted. Shadow 
+		should be the next thing to try as it should be fairly easy to implement. Use the existing drop block logic to create a shadow.
+
+10/21 - Shadow now works correctly. Just need to add the option to turn it on or off.
