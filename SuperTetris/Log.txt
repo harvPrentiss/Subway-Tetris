@@ -28,3 +28,6 @@ I will research and possibly look to make the tetro its own collision entity ins
 		should be the next thing to try as it should be fairly easy to implement. Use the existing drop block logic to create a shadow.
 
 10/21 - Shadow now works correctly. Just need to add the option to turn it on or off.
+
+6/25/13
+Uploaded to GitHub
