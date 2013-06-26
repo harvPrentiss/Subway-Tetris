@@ -1,0 +1,18 @@
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\bin\Debug\SuperTetris.exe
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\bin\Debug\SuperTetris.pdb
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\bin\Debug\Engine.dll
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\bin\Debug\Engine.pdb
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\obj\x86\Debug\SuperTetris.Form1.resources
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\obj\x86\Debug\SuperTetris.Properties.Resources.resources
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\obj\x86\Debug\SuperTetris.exe
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\obj\x86\Debug\SuperTetris.pdb
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\bin\Debug\Fonts\general_font.fnt
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\bin\Debug\Fonts\general_font.tga
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\bin\Debug\Fonts\title_font.fnt
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\bin\Debug\Fonts\title_font.tga
+c:\users\harv\documents\visual studio 2010\Projects\SuperTetris\SuperTetris\bin\Debug\Textures\singleTetrisBlock.tga
+C:\Users\Harv\Documents\Visual Studio 2010\Projects\Subway Tetris\SuperTetris\obj\x86\Debug\SuperTetris.exe
+C:\Users\Harv\Documents\Visual Studio 2010\Projects\Subway Tetris\SuperTetris\obj\x86\Debug\SuperTetris.pdb
